@@ -1,0 +1,9 @@
+JSON Web Page Assignment 
+
+Using the JSON / javascript literal object provided please construct a webpage that displays the items in the array pageItems. We have supplied an example of the type of output expected although we hope your solution will be more dynamic, attractive and interactive than the given image. ( cyanitems.png )
+
+· Ideally your solution will be developed and delivered using a code sharing tool such as jsfiddle.net or similar collaborative tool.
+· Your solution should demonstrate your knowledge of HTML / CSS and Javascript. 
+· We encourage the use of frameworks such as jquery.
+· Please make your solution flexible enough to accommodate a different data set i.e. don't make hardwired assumptions about the length of the list or the size of the images contained.
+· Please let me know if you have any questions about the task. There is no time limit. Please submit whenever you are ready to review and describe your solution.

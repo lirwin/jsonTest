@@ -1,0 +1,45 @@
+{
+    "pageTitle": "Cyan Image List",
+
+    "pageHeader": "Cyan Items",
+
+    "pageItems": [
+
+        {
+            "itemTitle"         : "Agility Chart",
+            "itemDescription"   : "A graphical depiction of how agile we are.",
+            "itemIcon"          : "images/mso3.jpg",
+            "itemUrl"           : "#"
+
+        },
+        {
+            "itemTitle"         : "Attack Chart",
+            "itemDescription"   : "How we approach the marketplace.",
+            "itemIcon"          : "images/attack_chart.png",
+            "itemUrl"           : "#"
+        },
+        {
+            "itemTitle"         : "Petaluma HQ",
+            "itemDescription"   : "An outside shot of our Petaluma office.",
+            "itemIcon"          : "images/wtp2.jpg",
+            "itemUrl"           : "#"
+        },
+        {
+            "itemTitle"         : "Network Dialog",
+            "itemDescription"   : "A diagram showing several network layers.",
+            "itemIcon"          : "images/network_diagram.png",
+            "itemUrl"           : "#"
+        },
+        {
+            "itemTitle"         : "Sample Bubble",
+            "itemDescription"   : "An example of a bubble chart.",
+            "itemIcon"          : "images/data-center.jpg",
+            "itemUrl"           : "#" 
+        },
+        {
+            "itemTitle"         : "Sample Bubble",
+            "itemDescription"   : "An example of a software chart.",
+            "itemIcon"          : "images/chart-search-icon.png",
+            "itemUrl"           : "#"
+        }]
+}
