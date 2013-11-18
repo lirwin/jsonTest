@@ -33,43 +33,43 @@ $(function() {
 
 		    "pageItems": [
 
-		        {
-		            "itemTitle"         : "Agility Chart",
-		            "itemDescription"   : "A graphical depiction of how agile we are.",
-		            "itemIcon"          : "images/mso3.jpg",
-		            "itemUrl"           : "http://www.yahoo.com/"
-
-		        },
-		        {
-		            "itemTitle"         : "Attack Chart",
-		            "itemDescription"   : "How we approach the marketplace.",
-		            "itemIcon"          : "images/attack_chart.png",
-		            "itemUrl"           : "http://www.facebook.com/"
-		        },
-		        {
-		            "itemTitle"         : "Network Chart",
-		            "itemDescription"   : "View our connectivity products.",
-		            "itemIcon"          : "images/wtp2.jpg",
-		            "itemUrl"           : "http://www.twitter.com/"
-		        },
-		        {
-		            "itemTitle"         : "Network Dialog",
-		            "itemDescription"   : "A diagram showing several network layers.",
-		            "itemIcon"          : "images/network_diagram.png",
-		            "itemUrl"           : "http://www.netflix.com/"
-		        },
-		        {
-		            "itemTitle"         : "Sample Bubble",
-		            "itemDescription"   : "An example of a bubble chart.",
-		            "itemIcon"          : "images/data-center.jpg",
-		            "itemUrl"           : "http://www.msn.com/" 
-		        },
-		        {
-		            "itemTitle"         : "Sample Bubble",
-		            "itemDescription"   : "An example of a bubble chart.",
-		            "itemIcon"          : "http://www.cyaninc.com/static/cms_files/img/software_chart.png",
-		            "itemUrl"           : "http://www.cyaninc.com/en/about-us/"
-		        }]
+            {
+                "itemTitle"         : "Agility Chart",
+                "itemDescription"   : "A graphical depiction of how agile we are.",
+                "itemIcon"          : "images/mso3.jpg",
+                "itemUrl"           : "#"
+    
+            },
+            {
+                "itemTitle"         : "Attack Chart",
+                "itemDescription"   : "How we approach the marketplace.",
+                "itemIcon"          : "images/attack_chart.png",
+                "itemUrl"           : "#"
+            },
+            {
+                "itemTitle"         : "Petaluma HQ",
+                "itemDescription"   : "An outside shot of our Petaluma office.",
+                "itemIcon"          : "images/wtp2.jpg",
+                "itemUrl"           : "#"
+            },
+            {
+                "itemTitle"         : "Network Dialog",
+                "itemDescription"   : "A diagram showing several network layers.",
+                "itemIcon"          : "images/network_diagram.png",
+                "itemUrl"           : "#"
+            },
+            {
+                "itemTitle"         : "Sample Bubble",
+                "itemDescription"   : "An example of a bubble chart.",
+                "itemIcon"          : "images/data-center.jpg",
+                "itemUrl"           : "#" 
+            },
+            {
+                "itemTitle"         : "Sample Bubble",
+                "itemDescription"   : "An example of a software chart.",
+                "itemIcon"          : "images/chart-search-icon.png",
+                "itemUrl"           : "#"
+            }]
 		};
 
 
